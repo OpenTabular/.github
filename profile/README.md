@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".OpenTabular.png" width="400"/>
+  <img src="./OpenTabular.png" width="400"/>
 
   <h1>Welcome to OpenTabular</h1>
 </div>
